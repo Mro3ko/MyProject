@@ -1,0 +1,4 @@
+echo "" > 1.abc
+echo "" > 2.abc
+echo "" > 3.abc
+git status
